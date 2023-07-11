@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jen0234
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning Css
 - 💞️ I’m looking to collaborate on building website
 - 📫 How to reach me JennaLafable@gmail.com
 
