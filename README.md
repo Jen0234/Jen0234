@@ -1,6 +1,9 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=Jen0234%2FREAME.md&label=VISITORS&labelColor=%237e395a&countColor=%23fd7ca4&style=flat-square&labelStyle=upper" />
 
-- 👋 Hi, I’m @Jen0234
+<h1 align="center"> Hi, I’m Jenna Lafable 👋🏾 </h1>
+
+<h2> I'm aspired to be a Front-End Developer 💻 </h2>
+
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning Css
 - 💞️ I’m looking to collaborate on building website
