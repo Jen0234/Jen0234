@@ -2,10 +2,10 @@
 
 <h1 align="center"> Hi, I’m Jenna Lafable 👋🏾 </h1>
 
-<h2> I'm aspired to be a Front-End Developer 💻 </h2>
+<h2> I'm a Full Stack Web Developer 💻 </h2>
 
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Css
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on building website
 - 📫 How to reach me JennaLafable@gmail.com
 
@@ -15,7 +15,7 @@
 Jen0234/Jen0234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!---!\[alt text\](path or URL to image)
+<!---!\[alt text\](path or URL to image) -->
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Jen0234&show_icons=true&theme=transparent&text_color=b7619d&icon_color=f55fa9&title_color=f55fa9)
