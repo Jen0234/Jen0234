@@ -15,7 +15,7 @@
 Jen0234/Jen0234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-!\[alt text\](path or URL to image)
+<!---!\[alt text\](path or URL to image)
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Jen0234&show_icons=true&theme=transparent&text_color=b7619d&icon_color=f55fa9&title_color=f55fa9)
